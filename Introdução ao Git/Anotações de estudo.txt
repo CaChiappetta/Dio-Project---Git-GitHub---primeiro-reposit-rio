@@ -4,7 +4,7 @@ Link:https://git-scm.com/downloads
 Noções básicas de Git/GitHub (Realizado)
 
 Introdução ao Git e ao GitHub (Como utilizá-lo no dia-a-dia) (Realizado)
-Apredendo a mexer no "terminal no Git Bash"
+Aprendendo a mexer no "terminal no Git Bash"
 
 Conhecimentos do Git/GitHub prova com 10 questões (Realizado com 70% de acertos) 
 
